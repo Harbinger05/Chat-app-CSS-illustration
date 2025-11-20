@@ -54,8 +54,7 @@ body {
 }
 
 .chat-app__phone-illustration {
-    min-width: 270px;
-    min-height: 507px;
+    width: 270px;
     border: 9px solid var(--White);
     border-radius: 30px;
     background-color: var(--Gray-100-app-background);
